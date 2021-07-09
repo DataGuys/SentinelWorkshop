@@ -1,34 +1,12 @@
----
-title: Connect Syslog data to Azure Sentinel | Microsoft Docs
-description: Connect any machine or appliance that supports Syslog to Azure Sentinel by using an agent on a Linux machine between the appliance and Azure Sentinel. 
-services: sentinel
-documentationcenter: na
-author: yelevin
-manager: rkarlin
-editor: ''
-
-ms.service: azure-sentinel
-ms.subservice: azure-sentinel
-ms.devlang: na
-ms.topic: conceptual
-ms.tgt_pltfrm: na
-ms.workload: na
-ms.date: 07/17/2020
-ms.author: yelevin
-
----
 # Collect data from Linux-based sources using Syslog
-
-[!INCLUDE [reference-to-feature-availability](includes/reference-to-feature-availability.md)]
 
 You can stream events from Linux-based, Syslog-supporting machines or appliances into Azure Sentinel, using the Log Analytics agent for Linux (formerly known as the OMS agent). You can do this for any machine that allows for you to install the Log Analytics agent directly on the machine. The machine's native Syslog daemon will collect local events of the specified types, and forward them locally to the agent, which will stream them to your Log Analytics workspace.
 
-> [!NOTE]
 > - If your appliance supports **Common Event Format (CEF) over Syslog**, a more complete data set is collected, and the data is parsed at collection. You should choose this option and follow the instructions in [Connect your external solution using CEF](connect-common-event-format.md).
 >
 > - Log Analytics supports collection of messages sent by the **rsyslog** or **syslog-ng** daemons, where rsyslog is the default. The default syslog daemon on version 5 of Red Hat Enterprise Linux (RHEL), CentOS, and Oracle Linux version (**sysklog**) is not supported for syslog event collection. To collect syslog data from this version of these distributions, the rsyslog daemon should be installed and configured to replace sysklog.
 
-## How it works
+# How it works
 
 **Syslog** is an event logging protocol that is common to Linux. When the **Log Analytics agent for Linux** is installed on your VM or appliance, the installation routine configures the local Syslog daemon to forward messages to the agent on TCP port 25224. The agent then sends the message to your Log Analytics workspace over HTTPS, where it is parsed into an event log entry in the Syslog table in **Azure Sentinel > Logs**.
 
