@@ -12,7 +12,7 @@
 - 1.1.5 [Workbooks](Instructions/Labs/LAB_AK_07_Lab1_Ex8_Workbooks.md)
 - 1.1.6 [Security Rules](Instructions/Labs/LAB_AK_07_Lab1_Ex1_Security_Rule.md)
 - 1.1.6.1 [Alerts]
-- 1.1.6.2 [Attack Simulation]
+- 1.1.6.2 [Attack Simulation](Instructions/Labs/LAB_AK_07_Lab1_Ex5_Perform_Attacks.md) - Defender for Endpoint Required
 - 1.1.7 [Notebooks](Instructions/Labs/LAB_AK_08_Lab1_Ex2_Notebooks.md)
 - 1.1.8 [Watchlists](VTD_Demos/04-configure-your-azure-sentinel-environment.md)
 - 1.1.9 [Simulation - Create detections and perform investigations](VTD_Demos/05-create-detections-perform-investigations-azure-sentinel.md)
