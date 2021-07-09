@@ -1,6 +1,6 @@
 # Sentinel Workshop
 - 1.1 Orentiention
-- 1.1.1 Onboarding
+- 1.1.1 [Onboarding](Instructions/Labs/LAB_AK_05_Lab1_Ex1_Deploy_Sentinel.md)
 - 1.1.1.1 Connect Data Sources
 - 1.1.1.1.1 Cloud Logs
 - 1.1.1.1.2 Windows Servers Logs
