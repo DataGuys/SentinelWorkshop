@@ -4,7 +4,7 @@
 - 1.1.1.1 Connect Data Sources
 - 1.1.1.1.1 [Cloud Logs](Instructions/Labs/LAB_AK_06_Lab1_Ex1_Connect_Services.md)
 - 1.1.1.1.2 [Windows Servers Logs](Instructions/Labs/LAB_AK_06_Lab1_Ex2_Connect_Windows.md)
-- 1.1.1.1.3 Linux Servers Logs
+- 1.1.1.1.3 [Linux Servers Logs](Instructions/Labs/LAB_AK_06_Lab1_Ex3_Connect_Linux.md)
 - 1.1.1.1.4 Log Forwarding - Syslog / CEF
 - [1.1.2 Queries](VTD_Demos/03-create-queries-for-azure-sentinel-using-kql.md)
 - [1.1.3 Hunting](VTD_Demos/06-perform-threat-hunting-azure-sentinel.md)
