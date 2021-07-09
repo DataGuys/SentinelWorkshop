@@ -8,7 +8,7 @@
 - 1.1.1.1.4 [Log Forwarding - Syslog / CEF](VTD_Demos/syslog-forwarding.md)
 - [1.1.2 Queries](VTD_Demos/03-create-queries-for-azure-sentinel-using-kql.md)
 - [1.1.3 Hunting](VTD_Demos/06-perform-threat-hunting-azure-sentinel.md)
-- 1.1.4 Automation / Logic apps
+- 1.1.4 [Playbooks / LogicApps](Instructions/Labs/LAB_AK_07_Lab1_Ex2_Playbook.md)
 - 1.1.5 Workbooks
 - 1.1.6 Alerts / Incidents
 - 1.1.7 [Notebooks](Instructions/Labs/LAB_AK_08_Lab1_Ex2_Notebooks.md)
