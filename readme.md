@@ -6,7 +6,7 @@
 - 1.1.1.1.2 Windows Servers Logs
 - 1.1.1.1.3 Linux Servers Logs
 - 1.1.1.1.4 Syslog / Network Infrastructure Logs
-- [1.1.2 Queries](
+- [1.1.2 Queries](VTD_Demos/03-create-queries-for-azure-sentinel-using-kql.md)
 - 1.1.3 Hunting
 - 1.1.4 Automation / Logic apps
 - 1.1.5 Workbooks
