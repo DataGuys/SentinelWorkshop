@@ -12,7 +12,7 @@
 - 1.1.5 Workbooks
 - 1.1.6 Alerts / Incidents
 - 1.1.7 Notebooks
-- 1.1.8 [Sentinel Configuration](
+- 1.1.8 [Sentinel Configuration](VTD_Demos/04-configure-your-azure-sentinel-environment.md)
 
 
 
