@@ -11,7 +11,7 @@
 - 1.1.4 Automation / Logic apps
 - 1.1.5 Workbooks
 - 1.1.6 Alerts / Incidents
-- 1.1.7 Notebooks
+- 1.1.7 [Notebooks](Instructions/Labs/LAB_AK_08_Lab1_Ex2_Notebooks.md)
 - 1.1.8 [Watchlists](VTD_Demos/04-configure-your-azure-sentinel-environment.md)
 - 1.1.9 [Simulation - Create detections and perform investigations](VTD_Demos/05-create-detections-perform-investigations-azure-sentinel.md)
 
