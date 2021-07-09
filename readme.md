@@ -1,7 +1,7 @@
 # Sentinel Workshop
 - 1.1 Orentiention
 - 1.1.1 [Onboarding](Instructions/Labs/LAB_AK_05_Lab1_Ex1_Deploy_Sentinel.md)
-- 1.1.1.1 Connect Data Sources
+- 1.1.1.1 [Intro to KQL](Instructions/Labs/LAB_AK_04_Lab1_Ex1_KQL.md)
 - 1.1.1.1.1 [Cloud Logs](Instructions/Labs/LAB_AK_06_Lab1_Ex1_Connect_Services.md)
 - 1.1.1.1.2 [Windows Servers Logs](Instructions/Labs/LAB_AK_06_Lab1_Ex2_Connect_Windows.md)
 - 1.1.1.1.3 [Linux Servers Logs](Instructions/Labs/LAB_AK_06_Lab1_Ex3_Connect_Linux.md)
