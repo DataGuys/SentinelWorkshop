@@ -1,4 +1,4 @@
-#Sentinel Workshop
+# Sentinel Workshop
 - 1.1 Orentiention
 - 1.1.1 Onboarding
 - 1.1.1.1 Connect Data Sources
