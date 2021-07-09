@@ -13,7 +13,7 @@
 - 1.1.6 Alerts / Incidents
 - 1.1.7 Notebooks
 - 1.1.8 [Watchlists](VTD_Demos/04-configure-your-azure-sentinel-environment.md)
-- 1.1.9 [Simulation - detections and perform investigations](VTD_Demos/05-create-detections-perform-investigations-azure-sentinel.md)
+- 1.1.9 [Simulation - Create detections and perform investigations](VTD_Demos/05-create-detections-perform-investigations-azure-sentinel.md)
 
 
 
