@@ -1,17 +1,17 @@
 #Sentinel Workshop
-1.1 Orentiention
-1.1.1 Onboarding
-1.1.1.1 Connect Data Sources
-1.1.1.1.1 Cloud Logs
-1.1.1.1.2 Windows Servers Logs
-1.1.1.1.3 Linux Servers Logs
-1.1.1.1.4 Syslog / Network Infrastructure Logs
-1.1.2 Queries
-1.1.3 Hunting
-1.1.4 Automation / Logic apps
-1.1.5 Workbooks
-1.1.6 Alerts / Incidents
-1.1.7 Notebooks
+- 1.1 Orentiention
+- 1.1.1 Onboarding
+- 1.1.1.1 Connect Data Sources
+- 1.1.1.1.1 Cloud Logs
+- 1.1.1.1.2 Windows Servers Logs
+- 1.1.1.1.3 Linux Servers Logs
+- 1.1.1.1.4 Syslog / Network Infrastructure Logs
+- 1.1.2 Queries
+- 1.1.3 Hunting
+- 1.1.4 Automation / Logic apps
+- 1.1.5 Workbooks
+- 1.1.6 Alerts / Incidents
+- 1.1.7 Notebooks
 
 
 
