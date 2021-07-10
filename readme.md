@@ -1,5 +1,5 @@
 # Sentinel Workshop
-- 1.1 Orentiention
+- 1.1 [Orentiention](orientation.md)
 - 1.1.1 [Onboarding](Instructions/Labs/LAB_AK_05_Lab1_Ex1_Deploy_Sentinel.md)
 - 1.1.1.1 [Intro to KQL](Instructions/Labs/LAB_AK_04_Lab1_Ex1_KQL.md)
 - 1.1.1.1.1 [Cloud Logs](Instructions/Labs/LAB_AK_06_Lab1_Ex1_Connect_Services.md)
